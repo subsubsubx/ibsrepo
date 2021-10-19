@@ -1,3 +1,5 @@
+sout(1 + 2 + 3);
+sout(new feature);
 sout("HelloWorld");;
 sout("bl");;
 commit;;
