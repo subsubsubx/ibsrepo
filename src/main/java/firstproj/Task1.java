@@ -4,11 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
-<<<<<<< HEAD
- * @author duce - @see Task1#calc - принимает на вход два числа типа double - numb1 и numb2,
-=======
  * @author subsubsubx - @see Task1#calc - принимает на вход два числа типа double - numb1 и numb2,
->>>>>>> b4aa4d3 (Add task 1)
  * а также строку (вид операции): "+", "-", "*" или "/"
  * В случае ввода невалидных данных программа останавливается и выбрасывает в консоль ошибку с предупреждением
  */
